@@ -1,0 +1,27 @@
+https://www.mapbox.com/mapbox.js/example/v1.0.0/
+
+
+
+
+Default public token
+
+
+
+secret token
+
+sk.eyJ1IjoibXVzc2F0YXdlcmdoaSIsImEiOiJjanBiMHp2aWoyMTFkM3FvMzFxNGh0a3dnIn0.bq9_h3GeCTBFZprNTAYU4w
+
+
+
+your access token
+
+pk.eyJ1IjoibXVzc2F0YXdlcmdoaSIsImEiOiJjanBiMHdwamkyajhqM3Fsa3BoZTJ0dDBlIn0.RFGRU75rO-JvZ7ZMSZdLMw
+
+POINTER CONTROLS ADRESS
+
+https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js
+
+
+
+
+
